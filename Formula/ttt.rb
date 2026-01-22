@@ -1,8 +1,8 @@
 class Ttt < Formula
   desc "Tiny Task Tool - A minimal TUI task manager for the terminal"
   homepage "https://github.com/yostos/tiny-task-tool"
-  url "https://github.com/yostos/tiny-task-tool/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "beb5b17ec084b5d7289bd038424f97732ba8db0d89a4b67f2ca95dc7d6dd341e"
+  url "https://github.com/yostos/tiny-task-tool/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "191dc9550a3e68884fd6e8bd7096b7ce005df555cb2e30aa0f62c76f97cb87de"
   license "MIT"
   head "https://github.com/yostos/tiny-task-tool.git", branch: "main"
 
