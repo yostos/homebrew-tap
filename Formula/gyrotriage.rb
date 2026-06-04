@@ -1,8 +1,8 @@
 class Gyrotriage < Formula
   desc "Score DJI drone footage shake intensity and recommend Gyroflow parameters"
   homepage "https://github.com/yostos/gyrotriage"
-  url "https://github.com/yostos/gyrotriage/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "a7b4b4301ecaa6a569c613b8bb8a237e2acf92b06be4a5eb2ece257635027f9e"
+  url "https://github.com/yostos/gyrotriage/archive/refs/tags/v1.4.1.tar.gz"
+  sha256 "c84501b17a07bdc72229ddcff531acdb467a282a6f4b411bc6f897b6f99e255c"
   license "MIT"
 
   depends_on "rust" => :build
